@@ -1,0 +1,33 @@
+body {
+  font-family: system-ui;
+  background: #f06d06;
+  color: white;
+}
+
+h1{
+  font-family: Times New Roman;
+  text-align: center;
+  color: black;
+}
+
+h2{
+  text-align: center;
+  color: yellow;
+}
+
+table, th, td{
+  width: 100%;
+  border: 3px solid yellow;
+  border-collapse: collapse;
+}
+
+th{
+  color: green;
+}
+
+td{
+  color: pink;
+}
+img{
+  width: 100%;
+}
